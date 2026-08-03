@@ -16,6 +16,6 @@ Hi, I'm **Huzaifa Ansari**, a Computer Science student, Certified Data Scientist
 ![](https://github-profile-trophy.vercel.app/?username=huzi7001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=huzi7001&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=huzi7001&icon=0&colour=1000)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
