@@ -1,4 +1,4 @@
-# 💫 About Me:      
+# 💫 About Me:       
 Hi, I'm **Huzaifa Ansari**, a Computer Science student, Certified Data Scientist & Agentic AI Engineer. I build intelligent AI applications and continuously explore the latest advancements in Agentic AI.<br><br>- 🤖 Experienced in **Agentic AI, LLM Applications, RAG, Prompt & Context Engineering, and AI Automation**.<br>- 🛠️ Working with **Python, OpenAI Agents SDK, LangChain, LangGraph, MCP, Vector Databases, Streamlit, Git, and GitHub**.<br>- 🚀 Currently focused on **building production-ready AI projects, and intelligent agents**.<br>- 🤝 Open to collaborating on Agentic AI, Machine Learning, and Open Source projects.<br>- ⚡ Passionate about building intelligent systems that solve real-world problems.  
 
 
